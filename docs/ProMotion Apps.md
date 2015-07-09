@@ -146,6 +146,26 @@ Bright Phonics is an educational app to help children learn to read. It is desig
 
 More information: [http://zero41.com/bright-phonics/](http://zero41.com/bright-phonics/)
 
+### Seattle Crime
+
+[![https://s3.amazonaws.com/sabotsolutions.com/images/crime_icon.png](https://s3.amazonaws.com/sabotsolutions.com/images/crime_icon.png)](https://itunes.apple.com/us/app/sea-crime/id991595187)
+
+[App Store Link](https://itunes.apple.com/us/app/sea-crime/id991595187)
+
+Get an excellent view of police activity for the City of Seattle! Using data from a city initiative to make data more transparent, this application graphically displays reported crimes throughout Seattle. 
+
+Set date ranges to see historical Seattle PD data and crime patterns in local neighborhoods.
+
+### Baton Rouge Crime
+
+[![https://s3.amazonaws.com/sabotsolutions.com/images/crime_icon.png](https://s3.amazonaws.com/sabotsolutions.com/images/crime_icon.png)](https://itunes.apple.com/us/app/btr-crime/id990771557)
+
+[App Store Link](https://itunes.apple.com/us/app/btr-crime/id990771557)
+
+Get an excellent view of police activity for the City of Baton Rouge! This application graphically displays reported crimes throughout Baton Rouge using data from an initiative to make data more transparent.
+
+Set date ranges to see historical Baton Rouge Police Department (BRPD) data and crime patterns in local neighborhoods.
+
 ### Your app here
 
 Tweet [@jamonholmgren](https://twitter.com/jamonholmgren) if you built an app in ProMotion and want it included here!
